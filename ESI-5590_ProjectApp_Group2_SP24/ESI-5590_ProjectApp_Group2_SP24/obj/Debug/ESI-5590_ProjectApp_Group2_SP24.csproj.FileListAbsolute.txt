@@ -1,0 +1,10 @@
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI-5590_ProjectApp_Group2_SP24.csproj.AssemblyReference.cache
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI_5590_ProjectApp_Group2_SP24.Form1.resources
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI_5590_ProjectApp_Group2_SP24.Properties.Resources.resources
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI-5590_ProjectApp_Group2_SP24.csproj.GenerateResource.cache
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI-5590_ProjectApp_Group2_SP24.csproj.CoreCompileInputs.cache
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\bin\Debug\ESI-5590_ProjectApp_Group2_SP24.exe.config
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\bin\Debug\ESI-5590_ProjectApp_Group2_SP24.exe
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\bin\Debug\ESI-5590_ProjectApp_Group2_SP24.pdb
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI-5590_ProjectApp_Group2_SP24.exe
+C:\Users\SMF23A\source\repos\ESI-5590_ProjectApp_Group2_SP24\ESI-5590_ProjectApp_Group2_SP24\obj\Debug\ESI-5590_ProjectApp_Group2_SP24.pdb
